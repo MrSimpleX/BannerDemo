@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CommonBanner">
+        <attr name="indicatorMarginBottom" format="dimension" />
+        <attr name="indicatorGravity"/>
+    </declare-styleable>
+
+    <declare-styleable name="CardBanner">
+        <attr name="viewMargin" format="dimension" />
+    </declare-styleable>
+
+</resources>
